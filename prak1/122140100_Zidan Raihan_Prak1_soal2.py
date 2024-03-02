@@ -1,10 +1,8 @@
 def LuasLingkaran(phi, jarijari):
     return phi * jarijari**2
 
-
 def KelilingLingkaran(phi, jarijari):
     return 2 * phi * jarijari
-
 
 print("Menghitung Luas dan Keliling Lingkaran")
 print("======================================")
