@@ -33,10 +33,10 @@ persegi = Persegi(5)
 lingkaran = Lingkaran(3)
 
 print(f"Luas Persegi: {persegi.hitungLuas()}")         # Output: Luas Persegi: 25
-print(f"Luas Lingkaran: {lingkaran.hitungLuas()}")     # Output: Luas Lingkaran: 28.27433
+print(f"Luas Lingkaran: {lingkaran.hitungLuas()}")     # Output: Luas Lingkaran: 28.2743333882308138
 '''
 Output yang muncul untuk luas lingkaran = 28.26
 Jika menggunakan 22/7, maka output luas lingkaran = 28.285714285714285
 Untuk memunculkan output sesuai dengan contoh,
-phi yang digunakan adalah 3.1415923
+phi yang digunakan adalah 3.14159259869
 '''
